@@ -1,0 +1,7 @@
+C:\Users\Leo Vitor\Desktop\tarefas atrasada\atividade complementar\AtividadeComplementarArray\AtividadeComplementarArray\bin\Debug\AtividadeComplementarArray.exe.config
+C:\Users\Leo Vitor\Desktop\tarefas atrasada\atividade complementar\AtividadeComplementarArray\AtividadeComplementarArray\bin\Debug\AtividadeComplementarArray.exe
+C:\Users\Leo Vitor\Desktop\tarefas atrasada\atividade complementar\AtividadeComplementarArray\AtividadeComplementarArray\bin\Debug\AtividadeComplementarArray.pdb
+C:\Users\Leo Vitor\Desktop\tarefas atrasada\atividade complementar\AtividadeComplementarArray\AtividadeComplementarArray\obj\Debug\AtividadeComplementarArray.csprojAssemblyReference.cache
+C:\Users\Leo Vitor\Desktop\tarefas atrasada\atividade complementar\AtividadeComplementarArray\AtividadeComplementarArray\obj\Debug\AtividadeComplementarArray.csproj.CoreCompileInputs.cache
+C:\Users\Leo Vitor\Desktop\tarefas atrasada\atividade complementar\AtividadeComplementarArray\AtividadeComplementarArray\obj\Debug\AtividadeComplementarArray.exe
+C:\Users\Leo Vitor\Desktop\tarefas atrasada\atividade complementar\AtividadeComplementarArray\AtividadeComplementarArray\obj\Debug\AtividadeComplementarArray.pdb
